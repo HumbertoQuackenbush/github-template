@@ -1,3 +1,4 @@
+Date: 9/17/2026
 # Godot + GitHub Beginner Workshop 🎮
 **Temple Game Development Club**
 
